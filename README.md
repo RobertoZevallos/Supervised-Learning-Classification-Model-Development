@@ -1,4 +1,4 @@
-# Supervised-Learning-Classification-Model-Development
+# Supervised Learning Classification Model Development
 Used information of the famous Game of Thrones books series to build a predictive model on a binary response variable (will the character be alive or not). The analysis includes feature engineering, model preparation, variable selection, model development, and model hyperparameter tuning.
 
 The classification models that were developed are:
